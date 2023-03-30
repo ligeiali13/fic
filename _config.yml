@@ -26,8 +26,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
     url: /tags
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+#  - {title: Mail, icon: envelope, url: "mailto:iris.lichenxin@gmail.com"}
+  - {title: Weibo, icon: weibo, url: "https://www.weibo.com/6061302168"}
+  - {title: Twitter, icon: twitter, url: "https://https://twitter.com/ligeia_li"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
