@@ -1,5 +1,5 @@
 title: "Ligeia的文库"
-#author: "Ligeia"
+author: "Ligeia"
 #description: "Ligeia"
 permalink: /:title/
 lang: "zh"
@@ -27,6 +27,12 @@ external:                  # shows a footer with social links - for available ic
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
+
+gitalk:
+  clientID: d3144ed17d7c36d82f91
+  clientSecret: 0e30cd49ef5d299d7f2a89cc65bd7cc49b5eea5b
+  repo: blog
+  owner: ligeiali13
 
 plugins:
  - jekyll-feed
