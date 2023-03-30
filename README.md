@@ -3,7 +3,9 @@ title: "关于"
 permalink: "/about/"
 layout: page
 ---
-谢谢你来到这里，我是Ligeia
+谢谢你来到这里！
+
+我是Ligeia，一个每日搬砖，偶尔摸鱼写文的社畜
 
 社交账号见网站页脚，最近不太常上
 
