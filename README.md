@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
-Hi! 我是Ligeia, 谢谢你来到这里
+谢谢你来到这里，我是Ligeia
 
 社交账号见网站页脚，最近不太常上
 
