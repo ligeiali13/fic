@@ -1,6 +1,6 @@
-title: "船舶小屋"
-author: "Ligeia"
-description: "Ligeia"
+title: "Ligeia的文库"
+#author: "Ligeia"
+#description: "Ligeia"
 permalink: /:title/
 lang: "zh"
 excerpt_separator: "\n\n\n"
