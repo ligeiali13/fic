@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 【冴凛】甜蜜的房间
+categories: 蓝色监狱
 ---
 
 >时间点在原作之前
