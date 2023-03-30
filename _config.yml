@@ -16,14 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-#  - {file: "index.html"}
-#  - {file: "README.md"}
-  - name: 首页
-    url: /
-  - name: 关于
-    url: /about
-  - name: 标签
-    url: /tags
+  - {file: "index.html"}
+  - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:iris.lichenxin@gmail.com"}
