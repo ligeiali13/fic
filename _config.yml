@@ -18,8 +18,8 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 #  - {file: "index.html"}
-  - {file: "categories.html"}
   - {file: "README.md"}
+Categories: "https://ligeiali13.github.io/categories/"
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
