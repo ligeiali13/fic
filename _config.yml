@@ -1,7 +1,8 @@
 title: "Ligeia的文库"
 author: "Ligeia"
 description: "Copyright 2023 Ligeia Li"
-permalink: /:title/
+#permalink: /:title/
+permalink: /:categories/:title/
 lang: "zh"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
@@ -16,8 +17,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html"}
+#  - {file: "index.html"}
+  - {file: "categories.html"}
   - {file: "README.md"}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Weibo, icon: weibo, url: "https://www.weibo.com/6061302168"}
