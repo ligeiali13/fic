@@ -1,6 +1,6 @@
 title: "Ligeia的文库"
 author: "Ligeia"
-description: "Copyright 2023 Ligeia Li"
+description: "Copyright 2023 Ligeia"
 #permalink: /:title/
 permalink: /:categories/:title/
 lang: "zh"
