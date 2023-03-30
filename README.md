@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
-我是Ligeia，谢谢你来到这里
+你好！谢谢你来到这里
 
 我很少写HE，请你在阅读时做好相应的的心理准备；但我保证尽力让笔下的情节合情合理
 
