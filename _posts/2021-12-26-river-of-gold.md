@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 【凛冴】Cry me a river of gold
+categories: 蓝色监狱
 ---
 
 >没有蓝锁的平行世界，因交通事故而失忆的冴与残疾的凛
