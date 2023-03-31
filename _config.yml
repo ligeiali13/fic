@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Weibo, icon: weibo, url: "https://www.weibo.com/6061302168"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/ligeia_li"}
-  - {title: QA, icon: paper-plane, url: "https://marshmallow-qa.com/ligeia_li"}
+  - {title: Mastodon, icon: mastodon, url: "https://pawoo.net/@ligeiali"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
