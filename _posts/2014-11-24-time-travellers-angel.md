@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【奥麦】时间旅行者的天使
-categories: 神学校
+categories: sgk
 ---
 
 >选择“挥起剑”后奥古斯特没死的if线
