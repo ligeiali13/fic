@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【奥麦】献给落日的哀歌
-categories: 神学校
+categories: sgk
 ---
 
 >续奥古斯特线《镇魂歌》结局，杰克视角
