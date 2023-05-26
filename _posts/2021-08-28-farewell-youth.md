@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【玲凪】作别少年时代
-categories: 蓝色监狱
+categories: sgk
 ---
 
 1
